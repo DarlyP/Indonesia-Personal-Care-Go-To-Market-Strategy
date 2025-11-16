@@ -37,7 +37,27 @@ This report maps Indonesia’s skincare opportunity at the provincial level (202
 
 ## Conclusion
 
-The largest near-term upside sits in provinces with high search interest but low sales per 100,000 residents; execute rapid activation (expand listings and inventory, retail media), and introduce trial packs at Rp20–35k plus value bundles. Mature markets (e.g., Central Java) require share defense and Average Order Value (AOV) lift via regimen bundles and step-up variants (≈Rp60–75k / Rp100–150k). Affordability is decisive: the price-to-non-food ratio—i.e., median skincare price divided by average monthly non-food expenditure per capita—when high (e.g., North Sulawesi) calls for trial/mini sizes, value bundles, and light promos; ratios around 0.05–0.10 (e.g., Banten) support measured premium-lite/upsell. The updated price-band structure clarifies positioning: Daerah Khusus Ibukota (DKI) Jakarta shows the highest premium share (≥Rp200k ~26%)—ready for regimen bundles; Banten is mid-tier heavy (Rp100–199k)—fit for mid-tier anchors plus selective premium-lite; West Java is entry-led (<Rp50k) with a meaningful Rp100–199k layer—lead with value then step-up; Daerah Istimewa (DI) Yogyakarta centers on mid-tier with a small premium tail—test premium selectively; Bali is 50–99k-heavy with minimal premium (~1–2%)—lean into value/entry. In the macro context, a higher Provincial Minimum Wage (UMP) is supportive, but always validate with the price-to-non-food ratio and sales per 100,000; a high Gini coefficient suggests a barbell assortment (value and premium concurrently); high population density improves reach but intensifies competition. Demographics guide allocation: prioritize provinces combining high females aged 20–39 per 100,000 with high interest. Immediate actions: Wave 1 (growth/gap) = high interest, low sales per 100,000, price-to-non-food ≤ 0.10 → activate with trial/value offers and problem-led creatives; Wave 2 (mature/value) = high interest and high sales per 100,000 → push regimen bundles and step-up lines. Measure success via change in sales per 100,000 residents (Δ sold per 100k) between treatment and control, alongside Return on Advertising Spend (ROAS), Click-Through Rate (CTR), Conversion Rate (CVR), and Average Order Value (AOV).
+* **Near-term upside:** Focus on provinces with **high search interest but low sales per 100k residents**; rapidly expand **listings, inventory, and retail media**, and introduce **trial packs at Rp20–35k** plus **value bundles**.
+* **Mature markets (e.g., Central Java):** Prioritize **share defense** and **AOV lift** through **regimen bundles** and **step-up variants** (≈**Rp60–75k / Rp100–150k**).
+* **Affordability lens:** Use the **price-to-non-food ratio** (median skincare price ÷ average monthly non-food spend per capita) as a gate:
+
+  * **High ratios** (e.g., North Sulawesi) → push **trial/mini sizes, value bundles, light promos**.
+  * **0.05–0.10 ratios** (e.g., Banten) → support **premium-lite and upsell** plays.
+* **Price-band positioning:**
+
+  * **DKI Jakarta:** Highest **premium (≥Rp200k ~26%)** → ready for **regimen bundles**.
+  * **Banten:** **Mid-tier–heavy (Rp100–199k)** → use **mid-tier anchors + selective premium-lite**.
+  * **West Java:** **Entry-led (<Rp50k)** with a **Rp100–199k layer** → **lead with value, then step up**.
+  * **DI Yogyakarta:** **Mid-tier core** with a **small premium tail** → **test premium selectively**.
+  * **Bali:** **50–99k-heavy** with **minimal premium (~1–2%)** → **lean into value/entry**.
+* **Macro filters:** A **higher UMP** is supportive but must be cross-checked with **price-to-non-food ratio** and **sales per 100k**; a **high Gini** favors a **barbell assortment** (value + premium); **high population density** boosts reach but also competition.
+* **Demographic focus:** Prioritize provinces that **combine high female 20–39 population per 100k with high interest**.
+* **Execution waves:**
+
+  * **Wave 1 (growth/gap):** High interest, **low sales per 100k**, **price-to-non-food ≤ 0.10** → **trial/value offers + problem-led creatives**.
+  * **Wave 2 (mature/value):** High interest, **high sales per 100k** → **regimen bundles + step-up lines**.
+* **Success metrics:** Track **Δ sales per 100k (treatment vs. control)** plus **ROAS, CTR, CVR, and AOV** to validate impact.
+
 
 ---
 
