@@ -61,9 +61,10 @@ This report maps Indonesia’s skincare opportunity at the provincial level (202
 
 ---
 
-## Dashboard
+## Dashboard & Presentation Deck
 
 **Looker Studio** : [Personal Care Go To Market (GTM)](https://lookerstudio.google.com/reporting/a1038cd1-10fa-4b3e-800c-9380352f54b7).
+**Presentation Deck** : [Personal Care Go To Market (GTM)](https://drive.google.com/file/d/10r8E6iQYPHYcNJTIs6yuXVHkbzodOKmQ/view?usp=sharing)
 
 ---
 
