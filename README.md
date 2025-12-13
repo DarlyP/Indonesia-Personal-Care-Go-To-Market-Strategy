@@ -29,6 +29,14 @@
 
 ---
 
+## Dashboard & Presentation Deck
+
+**Looker Studio** : [Dashboard - Personal Care Go To Market (GTM)](https://lookerstudio.google.com/reporting/a1038cd1-10fa-4b3e-800c-9380352f54b7).
+
+**Presentation Deck** : [Presentation Deck - Personal Care Go To Market (GTM)](https://drive.google.com/file/d/10r8E6iQYPHYcNJTIs6yuXVHkbzodOKmQ/view?usp=sharing)
+
+---
+
 ## Introduction:
 
 This report maps Indonesia’s skincare opportunity at the provincial level (2024–2025) and turns it into actionable decisions. We combine demand from Google Trends (geomap, timeline, related topics), supply & pricing from Tokopedia (price, sales, reviews, stock, price bands), and macro-demographics (Gini 2024, density 2021, UMP 2020, 2024 non-food spend, age structure). Using a Python (.ipynb) pipeline, we normalize data (province keys, types), engineer core metrics—interest_province, sold_per_100k, price_to_nonfood, demand_proxy—and synthesize them into a weighted Opportunity Score (0–100) that rewards demand & density and penalizes high supply and affordability burden. Key outputs (e.g., opportunity_score_by_province, province_master, tokopedia_agg_by_province, trends_geomap_summary, related_topics_clean) are exported to CSV and visualized in Looker. 
@@ -57,15 +65,6 @@ This report maps Indonesia’s skincare opportunity at the provincial level (202
   * **Wave 1 (growth/gap):** High interest, **low sales per 100k**, **price-to-non-food ≤ 0.10** → **trial/value offers + problem-led creatives**.
   * **Wave 2 (mature/value):** High interest, **high sales per 100k** → **regimen bundles + step-up lines**.
 * **Success metrics:** Track **Δ sales per 100k (treatment vs. control)** plus **ROAS, CTR, CVR, and AOV** to validate impact.
-
-
----
-
-## Dashboard & Presentation Deck
-
-**Looker Studio** : [Dashboard - Personal Care Go To Market (GTM)](https://lookerstudio.google.com/reporting/a1038cd1-10fa-4b3e-800c-9380352f54b7).
-
-**Presentation Deck** : [Presentation Deck - Personal Care Go To Market (GTM)](https://drive.google.com/file/d/10r8E6iQYPHYcNJTIs6yuXVHkbzodOKmQ/view?usp=sharing)
 
 ---
 
